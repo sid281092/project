@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/PDFBox-0.7.3/lib/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/Poi"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/poi-ooxml-3.5-FINAL.jar" sourcepath="D:/studia/others/java/Java Liblaries"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/html/htmlcleaner-2.8.jar"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/xmlBean/xmlbeans-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/studia/others/java/Java Liblaries/poi-ooxml-3.5-beta6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

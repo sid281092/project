@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/PDFBox-0.7.3/lib/PDFBox-0.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/Poi"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/poi-3.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/poi-ooxml-3.5-FINAL.jar" sourcepath="D:/studia/others/java/Java Liblaries"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/html/htmlcleaner-2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/xmlBean/xmlbeans-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/studia/others/java/Java Liblaries/poi-ooxml-3.5-beta6.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="liblary/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="liblary/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="liblary/poi-ooxml-3.5-beta6.jar"/>
+	<classpathentry kind="lib" path="liblary/xmlbeans-2.2.0.jar"/>
+	<classpathentry kind="lib" path="liblary/poi-ooxml-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="liblary/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="liblary/htmlcleaner-2.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
